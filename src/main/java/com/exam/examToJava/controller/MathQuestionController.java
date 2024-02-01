@@ -14,7 +14,6 @@ import java.util.Collection;
 @RequestMapping("java/math")
 @RestController
 public class MathQuestionController {
-    @Autowired
     @Qualifier("mathQuestionServiceImpl")
     private final QuestionService mathQuestionService;
 

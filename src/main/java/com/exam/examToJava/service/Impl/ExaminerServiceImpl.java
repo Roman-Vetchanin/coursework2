@@ -12,10 +12,8 @@ import java.util.*;
 
 @Service
 public class ExaminerServiceImpl implements ExaminerService {
-    @Autowired
     @Qualifier("javaQuestionService")
     private final QuestionService questionService;
-    @Autowired
     @Qualifier("mathQuestionService")
     private final QuestionService mathQuestionService;
 
