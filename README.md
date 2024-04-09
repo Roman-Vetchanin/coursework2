@@ -10,6 +10,6 @@ Spring framework
 -/java/add?question={question}&answer={answer} добавить вопрос, где {question} - вопрос, {answer} - ответ.</br>
 -/java/remove?question={question}&answer={answer} удить вопрос, где {question} - вопрос, {answer} - ответ.</br>
 -/java - получить все вопросы.</br>
--java/math/add?question={question}&answer={answer} добавить вопрос, где {question} - вопрос, {answer} - ответ.</br>
--java/math/remove?question={question}&answer={answer} удить вопрос, где {question} - вопрос, {answer} - ответ.</br>
--java/math/getAll получить все вопросы.</br>
+-/java/math/add?question={question}&answer={answer} добавить вопрос, где {question} - вопрос, {answer} - ответ.</br>
+-/java/math/remove?question={question}&answer={answer} удить вопрос, где {question} - вопрос, {answer} - ответ.</br>
+-/java/math/getAll получить все вопросы.</br>
